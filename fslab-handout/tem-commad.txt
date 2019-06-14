@@ -1,0 +1,40 @@
+cd version12/fslab-handout
+	
+cd fslab-handout
+192.144.187.76
+tar xvf fslab-handout.tar
+mv fslab-handout.tar version
+put C:\Users\Lenovo\Desktop\tem_desk\fslab-handout\fs.c
+
+make
+2017202010
+
+wangzihan
+
+
+touch 1
+
+touch 2
+
+touch 3
+
+mkdir 4
+
+ls
+
+
+
+
+
+
+
+ 
+mkdir first
+mkdir second 
+
+cd mnt 
+touch here.txt
+echo "wangzihan" > here.txt
+cat here.txt
+
+
